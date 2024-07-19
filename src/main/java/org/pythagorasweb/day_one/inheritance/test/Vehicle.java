@@ -1,4 +1,4 @@
-package org.pythagorasweb.inheritance.test;
+package org.pythagorasweb.day_one.inheritance.test;
 
 public class Vehicle {
     int numberOfWheels;
